@@ -1,2 +1,2 @@
 # RepositorioHenry
-ejercicios  GIT - GITHUB
+ejercicios  GIT - GITHU
